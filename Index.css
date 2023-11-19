@@ -142,3 +142,11 @@ a{
     margin-left: 75px;
     margin-right: 100px;
 }
+
+
+.cumpleaños, .decoracion,.aniversario{
+    margin-top: 25px;
+    margin-left: 5px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
